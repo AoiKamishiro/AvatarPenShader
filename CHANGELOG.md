@@ -1,5 +1,7 @@
 # Changelog
 
+## [1.0.3] - 2022-09-20
+- Add Usage Textures
 ## [1.0.2] - 2022-09-13
 - Add Animations & Materials
 ## [1.0.1] - 2022-09-13
