@@ -1,5 +1,8 @@
 # Changelog
 
+## [1.0.5] - 2022-09-28
+ - Bug Fix
+ 
 ## [1.0.4] - 2022-09-28
  - Add Icon Textures
  
