@@ -1,7 +1,7 @@
 {
   "name": "com.kamishiro.avatarpenshader",
   "author": "AoiKamishiro",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "displayName": "Avatar Pen Shader",
   "description": "Pen Shader for VRChat Avatars.",
   "unity": "2019.4"
